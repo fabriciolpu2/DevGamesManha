@@ -1,32 +1,26 @@
 fileFormatVersion: 2
-guid: 771ccd308373f744c8829e24ac402d57
-timeCreated: 1516994673
+guid: 6ae91dbdde6c3414183824fd95d25ab0
+timeCreated: 1517335374
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Camera
-    100004: Cube
-    100006: Lamp
     400000: //RootNode
-    400002: Camera
-    400004: Cube
-    400006: Lamp
-    2000000: Camera
-    2300000: Cube
-    2300002: //RootNode
-    3300000: Cube
-    3300002: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: Cube
-    4300002: Banco
-    10800000: Lamp
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: ca725c7775b008e42b1a9271258b27e6, type: 2}
+      name: luminaria
+    second: {fileID: 2100000, guid: c788796f28c442642b20f285a729793e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poste
+    second: {fileID: 2100000, guid: 195bb103eda4f7d458d7265f22eebb41, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -79,7 +73,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
