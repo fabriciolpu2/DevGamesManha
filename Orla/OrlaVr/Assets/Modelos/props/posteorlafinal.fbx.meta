@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 98a487b9ed519944f9ff2d3aac135af6
-timeCreated: 1518113061
+guid: ea0afb912d1917d448b1878cac63fd86
+timeCreated: 1518121727
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -9,18 +9,18 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube
+    4300000: Poste
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: luminaria
-    second: {fileID: 2100000, guid: aba39bf06e853d24d81c7f1468d92652, type: 2}
+    second: {fileID: 2100000, guid: 3aa683d966e28524aba07515f5bcc9cf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: poste
-    second: {fileID: 2100000, guid: fc6c34244a5b716439929c8dffed56ad, type: 2}
+    second: {fileID: 2100000, guid: ebee4e7455fded643af0036b2581f2d6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -67,7 +67,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
