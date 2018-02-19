@@ -1,39 +1,26 @@
 fileFormatVersion: 2
-guid: f7a4a5675bef46547aed27930ecf4a0c
-timeCreated: 1517338212
+guid: 78ff5a4eb2cab674fbe9beb1f0f59c1d
+timeCreated: 1519071165
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Camera
-    100002: Cube.000
-    100004: Cube.001
-    100006: Lamp
-    100008: //RootNode
-    400000: Camera
-    400002: Cube.000
-    400004: Cube.001
-    400006: Lamp
-    400008: //RootNode
-    2000000: Camera
-    2300000: Cube.000
-    2300002: Cube.001
-    3300000: Cube.000
-    3300002: Cube.001
-    4300000: Cube.001
-    4300002: Cube.000
-    10800000: Lamp
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Canteiros.001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Parque.001
-    second: {fileID: 2100000, guid: ec95b96b69880ef438de1c86995574ad, type: 2}
+      name: Jardim
+    second: {fileID: 2100000, guid: 6e85907df7325334cbcbec78b81aaf6c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: rede
-    second: {fileID: 2100000, guid: 555bb831e0c6a4841b517280ca3d3986, type: 2}
+      name: paredeAzul
+    second: {fileID: 2100000, guid: e82a8d60c3ce7884a92a6aa61cb1934d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -68,8 +55,8 @@ ModelImporter:
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -80,7 +67,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
