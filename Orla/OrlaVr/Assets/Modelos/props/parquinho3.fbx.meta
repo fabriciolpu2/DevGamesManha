@@ -10,18 +10,23 @@ ModelImporter:
     100004: Cube.009
     100006: Lamp
     100008: //RootNode
+    100010: Cube.002
     400000: Camera
     400002: Cube.000
     400004: Cube.009
     400006: Lamp
     400008: //RootNode
+    400010: Cube.002
     2000000: Camera
     2300000: Cube.000
     2300002: Cube.009
+    2300004: Cube.002
     3300000: Cube.000
     3300002: Cube.009
+    3300004: Cube.002
     4300000: Cube.000
     4300002: Cube.009
+    4300004: Cube.002
     10800000: Lamp
   externalObjects:
   - first:
@@ -32,8 +37,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 7839d995390dbb141818130055bc0bdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Parque
-    second: {fileID: 2100000, guid: cfc245c3b78304b4e860971b82b9d448, type: 2}
+    second: {fileID: 2100000, guid: ec95b96b69880ef438de1c86995574ad, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
