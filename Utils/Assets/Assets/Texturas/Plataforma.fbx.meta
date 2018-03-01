@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 35afe43a6cd3e904683d01a49ffead9e
+timeCreated: 1518018999
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barras - escada
+    100002: Canteiros
+    100004: Concreto
+    100006: Escada_rampa
+    100008: Granito
+    100010: Jardim
+    100012: Pilar_maior
+    100014: Pilar_menor
+    100016: Piso_cinza
+    100018: Piso_vermelho
+    100020: //RootNode
+    100022: Rampa
+    100024: Viga
+    400000: Barras - escada
+    400002: Canteiros
+    400004: Concreto
+    400006: Escada_rampa
+    400008: Granito
+    400010: Jardim
+    400012: Pilar_maior
+    400014: Pilar_menor
+    400016: Piso_cinza
+    400018: Piso_vermelho
+    400020: //RootNode
+    400022: Rampa
+    400024: Viga
+    2300000: Barras - escada
+    2300002: Canteiros
+    2300004: Concreto
+    2300006: Escada_rampa
+    2300008: Granito
+    2300010: Jardim
+    2300012: Pilar_maior
+    2300014: Pilar_menor
+    2300016: Piso_cinza
+    2300018: Piso_vermelho
+    2300020: Rampa
+    2300022: Viga
+    3300000: Barras - escada
+    3300002: Canteiros
+    3300004: Concreto
+    3300006: Escada_rampa
+    3300008: Granito
+    3300010: Jardim
+    3300012: Pilar_maior
+    3300014: Pilar_menor
+    3300016: Piso_cinza
+    3300018: Piso_vermelho
+    3300020: Rampa
+    3300022: Viga
+    4300000: Pilar_maior
+    4300002: Pilar_menor
+    4300004: Viga
+    4300006: Concreto
+    4300008: Jardim
+    4300010: Granito
+    4300012: Canteiros
+    4300014: Rampa
+    4300016: Piso_vermelho
+    4300018: Piso_cinza
+    4300020: Barras - escada
+    4300022: Escada_rampa
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 2f22f7a08d324014ca438290b67f9be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granito
+    second: {fileID: 2100000, guid: c257e2d68f815da40b0428d97636e761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jardim
+    second: {fileID: 2100000, guid: 0fa233f8cb188d64da95d18e6ea9fa49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_com_spot
+    second: {fileID: 2100000, guid: b906f05161d6459469f6250ff89847f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_espelho
+    second: {fileID: 2100000, guid: 81c20ba953d0d054fb73baab42a48a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_vertical
+    second: {fileID: 2100000, guid: 2fbb717ef95de174e9768c0f59fc9c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: c5f8654d57d41e641a9a13a741764db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Cinza
+    second: {fileID: 2100000, guid: a33c47d69f054624f9d66ae0cf65787b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Vermelho
+    second: {fileID: 2100000, guid: e9d2499680204b24dbcdda5abe2f3ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rampa_piso_diferente
+    second: {fileID: 2100000, guid: 88b0cd7d6a15a8a46b71dbc94bd5ab2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredeAzul
+    second: {fileID: 2100000, guid: 2966af951eb9d9a40bc128136af684ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
