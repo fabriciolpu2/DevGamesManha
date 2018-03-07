@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 5b72beffb94ef4148a5d9d1c9c053c24
+timeCreated: 1520350705
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barras - escada
+    100002: Canteiros
+    100004: Concreto
+    100006: Escada_rampa
+    100008: Grades_Plataforma_Inferior
+    100010: Grades_Plataforma_Inferior_Entrada
+    100012: Grades_Plataforma_Rampa
+    100014: Grades_Plataforma_Superior
+    100016: Jardim
+    100018: Parque
+    100020: Pilar
+    100022: Pilar_maior
+    100024: Piso_cinza
+    100026: Piso_vermelho
+    100028: //RootNode
+    100030: Rampa
+    100032: Viga.001
+    400000: Barras - escada
+    400002: Canteiros
+    400004: Concreto
+    400006: Escada_rampa
+    400008: Grades_Plataforma_Inferior
+    400010: Grades_Plataforma_Inferior_Entrada
+    400012: Grades_Plataforma_Rampa
+    400014: Grades_Plataforma_Superior
+    400016: Jardim
+    400018: Parque
+    400020: Pilar
+    400022: Pilar_maior
+    400024: Piso_cinza
+    400026: Piso_vermelho
+    400028: //RootNode
+    400030: Rampa
+    400032: Viga.001
+    2100000: Grade_Orla_Externo_Alpha
+    2100002: Grade_Orla_Externo
+    2100004: Concreto
+    2100006: paredeAzul
+    2100008: Granito
+    2100010: Jardim
+    2100012: Rampa_piso_diferente
+    2100014: Piso_Vermelho
+    2100016: Piso_Cinza
+    2100018: Metal
+    2100020: Madeira_espelho
+    2100022: Madeira_vertical
+    2100024: Madeira_com_spot
+    2300000: Barras - escada
+    2300002: Canteiros
+    2300004: Concreto
+    2300006: Escada_rampa
+    2300008: Grades_Plataforma_Inferior
+    2300010: Grades_Plataforma_Inferior_Entrada
+    2300012: Grades_Plataforma_Rampa
+    2300014: Grades_Plataforma_Superior
+    2300016: Jardim
+    2300018: Parque
+    2300020: Pilar
+    2300022: Pilar_maior
+    2300024: Piso_cinza
+    2300026: Piso_vermelho
+    2300028: Rampa
+    2300030: Viga.001
+    3300000: Barras - escada
+    3300002: Canteiros
+    3300004: Concreto
+    3300006: Escada_rampa
+    3300008: Grades_Plataforma_Inferior
+    3300010: Grades_Plataforma_Inferior_Entrada
+    3300012: Grades_Plataforma_Rampa
+    3300014: Grades_Plataforma_Superior
+    3300016: Jardim
+    3300018: Parque
+    3300020: Pilar
+    3300022: Pilar_maior
+    3300024: Piso_cinza
+    3300026: Piso_vermelho
+    3300028: Rampa
+    3300030: Viga.001
+    4300000: Grades_Plataforma_Rampa
+    4300002: Grades_Plataforma_Superior
+    4300004: Grades_Plataforma_Inferior
+    4300006: Grades_Plataforma_Inferior_Entrada
+    4300008: Pilar_maior
+    4300010: Pilar
+    4300012: Viga.001
+    4300014: Canteiros
+    4300016: Parque
+    4300018: Concreto
+    4300020: Jardim
+    4300022: Rampa
+    4300024: Piso_vermelho
+    4300026: Piso_cinza
+    4300028: Barras - escada
+    4300030: Escada_rampa
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: ba3fa5b767e5fce4f8ee46911aad7a83, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
