@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 914d072428d466f4aa19f8d218298045
+timeCreated: 1520886910
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barras - escada
+    100002: Canteiros.001
+    100004: Canteiros.002
+    100006: Canteiros.003
+    100008: Canteiros.004
+    100010: Canteiros_Inferior
+    100012: Canteiros_Inferior.001
+    100014: Canteiros_Inferior.002
+    100016: Canteiros_Inferior.003
+    100018: Canteiros_Rampa
+    100020: Canteiros_Rampa.001
+    100022: Concreto
+    100024: Concreto.001
+    100026: Concreto.003
+    100028: Escada_rampa
+    100030: Granito_Superior
+    100032: Granito_Superior.001
+    100034: Jardim
+    100036: Parque
+    100038: Pilar
+    100040: Piso_cinza
+    100042: Piso_vermelho
+    100044: Piso_vermelho.001
+    100046: Piso_vermelho.002
+    100048: Piso_vermelho.003
+    100050: //RootNode
+    100052: Rampa
+    100054: Viga.001
+    400000: Barras - escada
+    400002: Canteiros.001
+    400004: Canteiros.002
+    400006: Canteiros.003
+    400008: Canteiros.004
+    400010: Canteiros_Inferior
+    400012: Canteiros_Inferior.001
+    400014: Canteiros_Inferior.002
+    400016: Canteiros_Inferior.003
+    400018: Canteiros_Rampa
+    400020: Canteiros_Rampa.001
+    400022: Concreto
+    400024: Concreto.001
+    400026: Concreto.003
+    400028: Escada_rampa
+    400030: Granito_Superior
+    400032: Granito_Superior.001
+    400034: Jardim
+    400036: Parque
+    400038: Pilar
+    400040: Piso_cinza
+    400042: Piso_vermelho
+    400044: Piso_vermelho.001
+    400046: Piso_vermelho.002
+    400048: Piso_vermelho.003
+    400050: //RootNode
+    400052: Rampa
+    400054: Viga.001
+    2100000: Granito
+    2100002: paredeAzul
+    2100004: Piso_Vermelho
+    2100006: Concreto
+    2100008: Jardim
+    2100010: Madeira_espelho
+    2100012: Madeira_vertical
+    2100014: Madeira_com_spot
+    2100016: Metal
+    2100018: Piso_Cinza
+    2100020: Rampa_piso_diferente
+    2300000: Barras - escada
+    2300002: Canteiros.001
+    2300004: Canteiros.002
+    2300006: Canteiros.003
+    2300008: Canteiros.004
+    2300010: Canteiros_Inferior
+    2300012: Canteiros_Inferior.001
+    2300014: Canteiros_Inferior.002
+    2300016: Canteiros_Inferior.003
+    2300018: Canteiros_Rampa
+    2300020: Canteiros_Rampa.001
+    2300022: Concreto
+    2300024: Concreto.001
+    2300026: Concreto.003
+    2300028: Escada_rampa
+    2300030: Granito_Superior
+    2300032: Granito_Superior.001
+    2300034: Jardim
+    2300036: Parque
+    2300038: Pilar
+    2300040: Piso_cinza
+    2300042: Piso_vermelho
+    2300044: Piso_vermelho.001
+    2300046: Piso_vermelho.002
+    2300048: Piso_vermelho.003
+    2300050: Rampa
+    2300052: Viga.001
+    3300000: Barras - escada
+    3300002: Canteiros.001
+    3300004: Canteiros.002
+    3300006: Canteiros.003
+    3300008: Canteiros.004
+    3300010: Canteiros_Inferior
+    3300012: Canteiros_Inferior.001
+    3300014: Canteiros_Inferior.002
+    3300016: Canteiros_Inferior.003
+    3300018: Canteiros_Rampa
+    3300020: Canteiros_Rampa.001
+    3300022: Concreto
+    3300024: Concreto.001
+    3300026: Concreto.003
+    3300028: Escada_rampa
+    3300030: Granito_Superior
+    3300032: Granito_Superior.001
+    3300034: Jardim
+    3300036: Parque
+    3300038: Pilar
+    3300040: Piso_cinza
+    3300042: Piso_vermelho
+    3300044: Piso_vermelho.001
+    3300046: Piso_vermelho.002
+    3300048: Piso_vermelho.003
+    3300050: Rampa
+    3300052: Viga.001
+    4300000: Granito_Superior.001
+    4300002: Canteiros.004
+    4300004: Canteiros.003
+    4300006: Canteiros.002
+    4300008: Canteiros.001
+    4300010: Piso_vermelho.003
+    4300012: Concreto.003
+    4300014: Concreto.001
+    4300016: Piso_vermelho.002
+    4300018: Piso_vermelho.001
+    4300020: Canteiros_Rampa.001
+    4300022: Canteiros_Inferior.003
+    4300024: Canteiros_Inferior.002
+    4300026: Canteiros_Inferior.001
+    4300028: Jardim
+    4300030: Granito_Superior
+    4300032: Canteiros_Rampa
+    4300034: Canteiros_Inferior
+    4300036: Escada_rampa
+    4300038: Barras - escada
+    4300040: Piso_cinza
+    4300042: Piso_vermelho
+    4300044: Rampa
+    4300046: Concreto
+    4300048: Parque
+    4300050: Viga.001
+    4300052: Pilar
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 8fb1da9e7b3156c4b8259fe4212423f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granito
+    second: {fileID: 2100000, guid: a116011489a023e4eb697c9e77f8062a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jardim
+    second: {fileID: 2100000, guid: 05a2500cc02385645955d63cf0bab30b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_com_spot
+    second: {fileID: 2100000, guid: e0ffa15ff129d35499f4a9da1af41d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_espelho
+    second: {fileID: 2100000, guid: c6e835fc256c84148b76592924d9a432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_vertical
+    second: {fileID: 2100000, guid: 7d0f63fc70ea8d74389200e963f35b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 5b33b21a2d43f4b4eb81a2f70a5c5d34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Cinza
+    second: {fileID: 2100000, guid: 2841d1412d6cdfa478292d480962f3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Vermelho
+    second: {fileID: 2100000, guid: 555711d04b79b6e41ba1aae1b839ea08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rampa_piso_diferente
+    second: {fileID: 2100000, guid: 3ea17f44bbce4394e9770be9e6a334ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredeAzul
+    second: {fileID: 2100000, guid: d1eec7ead94d5544ca1626c03d41bb4e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
