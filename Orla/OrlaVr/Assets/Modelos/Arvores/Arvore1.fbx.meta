@@ -14,7 +14,27 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: sm_veg_tree4
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas
+    second: {fileID: 2100000, guid: d1ad72e40724007489585051a960593f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas2
+    second: {fileID: 2100000, guid: b179c0bb2d01beb449bb35cc5ce7822b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama
+    second: {fileID: 2100000, guid: 0ea2e793324214146ad2312c51bf9f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tronco
+    second: {fileID: 2100000, guid: e85c7c744548f1d4fab8d648c9cfec22, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
