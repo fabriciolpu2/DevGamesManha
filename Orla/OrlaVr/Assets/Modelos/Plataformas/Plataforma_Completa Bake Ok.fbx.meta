@@ -33,6 +33,33 @@ ModelImporter:
     100050: //RootNode
     100052: Rampa
     100054: Viga.001
+    100056: Collider
+    100058: Grades_Inside_Plataforma_Inferior.000
+    100060: Grades_Inside_Plataforma_Inferior.001
+    100062: Grades_Inside_Plataforma_Inferior.002
+    100064: Grades_Inside_Plataforma_Inferior.004
+    100066: Grades_Inside_Plataforma_Inferior_Entrada
+    100068: Grades_Inside_Plataforma_Inferior_Entrada.000
+    100070: Grades_Inside_Plataforma_Inferior_Entrada.001
+    100072: Grades_Inside_Plataforma_Rampa.001
+    100074: Grades_Inside_Plataforma_Rampa.002
+    100076: Grades_Inside_Plataforma_Superior
+    100078: Grades_Inside_Plataforma_Superior.001
+    100080: Grades_Inside_Plataforma_Superior.002
+    100082: Grades_Inside_Plataforma_Superior.003
+    100084: Grades_Plataforma_Inferior
+    100086: Grades_Plataforma_Inferior.002
+    100088: Grades_Plataforma_Inferior.003
+    100090: Grades_Plataforma_Inferior.004
+    100092: Grades_Plataforma_Inferior_Entrada.001
+    100094: Grades_Plataforma_Inferior_Entrada.002
+    100096: Grades_Plataforma_Inferior_Entrada.003
+    100098: Grades_Plataforma_Rampa
+    100100: Grades_Plataforma_Rampa.002
+    100102: Grades_Plataforma_Superior.000
+    100104: Grades_Plataforma_Superior.001
+    100106: Grades_Plataforma_Superior.003
+    100108: Grades_Plataforma_Superior.004
     400000: Barras - escada
     400002: Canteiros.001
     400004: Canteiros.002
@@ -61,6 +88,33 @@ ModelImporter:
     400050: //RootNode
     400052: Rampa
     400054: Viga.001
+    400056: Collider
+    400058: Grades_Inside_Plataforma_Inferior.000
+    400060: Grades_Inside_Plataforma_Inferior.001
+    400062: Grades_Inside_Plataforma_Inferior.002
+    400064: Grades_Inside_Plataforma_Inferior.004
+    400066: Grades_Inside_Plataforma_Inferior_Entrada
+    400068: Grades_Inside_Plataforma_Inferior_Entrada.000
+    400070: Grades_Inside_Plataforma_Inferior_Entrada.001
+    400072: Grades_Inside_Plataforma_Rampa.001
+    400074: Grades_Inside_Plataforma_Rampa.002
+    400076: Grades_Inside_Plataforma_Superior
+    400078: Grades_Inside_Plataforma_Superior.001
+    400080: Grades_Inside_Plataforma_Superior.002
+    400082: Grades_Inside_Plataforma_Superior.003
+    400084: Grades_Plataforma_Inferior
+    400086: Grades_Plataforma_Inferior.002
+    400088: Grades_Plataforma_Inferior.003
+    400090: Grades_Plataforma_Inferior.004
+    400092: Grades_Plataforma_Inferior_Entrada.001
+    400094: Grades_Plataforma_Inferior_Entrada.002
+    400096: Grades_Plataforma_Inferior_Entrada.003
+    400098: Grades_Plataforma_Rampa
+    400100: Grades_Plataforma_Rampa.002
+    400102: Grades_Plataforma_Superior.000
+    400104: Grades_Plataforma_Superior.001
+    400106: Grades_Plataforma_Superior.003
+    400108: Grades_Plataforma_Superior.004
     2100000: Granito
     2100002: paredeAzul
     2100004: Piso_Vermelho
@@ -72,6 +126,9 @@ ModelImporter:
     2100016: Metal
     2100018: Piso_Cinza
     2100020: Rampa_piso_diferente
+    2100022: No Name
+    2100024: Grade_Orla_Externo
+    2100026: Grade_Orla_Externo_Alpha
     2300000: Barras - escada
     2300002: Canteiros.001
     2300004: Canteiros.002
@@ -99,6 +156,33 @@ ModelImporter:
     2300048: Piso_vermelho.003
     2300050: Rampa
     2300052: Viga.001
+    2300054: Collider
+    2300056: Grades_Inside_Plataforma_Inferior.000
+    2300058: Grades_Inside_Plataforma_Inferior.001
+    2300060: Grades_Inside_Plataforma_Inferior.002
+    2300062: Grades_Inside_Plataforma_Inferior.004
+    2300064: Grades_Inside_Plataforma_Inferior_Entrada
+    2300066: Grades_Inside_Plataforma_Inferior_Entrada.000
+    2300068: Grades_Inside_Plataforma_Inferior_Entrada.001
+    2300070: Grades_Inside_Plataforma_Rampa.001
+    2300072: Grades_Inside_Plataforma_Rampa.002
+    2300074: Grades_Inside_Plataforma_Superior
+    2300076: Grades_Inside_Plataforma_Superior.001
+    2300078: Grades_Inside_Plataforma_Superior.002
+    2300080: Grades_Inside_Plataforma_Superior.003
+    2300082: Grades_Plataforma_Inferior
+    2300084: Grades_Plataforma_Inferior.002
+    2300086: Grades_Plataforma_Inferior.003
+    2300088: Grades_Plataforma_Inferior.004
+    2300090: Grades_Plataforma_Inferior_Entrada.001
+    2300092: Grades_Plataforma_Inferior_Entrada.002
+    2300094: Grades_Plataforma_Inferior_Entrada.003
+    2300096: Grades_Plataforma_Rampa
+    2300098: Grades_Plataforma_Rampa.002
+    2300100: Grades_Plataforma_Superior.000
+    2300102: Grades_Plataforma_Superior.001
+    2300104: Grades_Plataforma_Superior.003
+    2300106: Grades_Plataforma_Superior.004
     3300000: Barras - escada
     3300002: Canteiros.001
     3300004: Canteiros.002
@@ -126,6 +210,33 @@ ModelImporter:
     3300048: Piso_vermelho.003
     3300050: Rampa
     3300052: Viga.001
+    3300054: Collider
+    3300056: Grades_Inside_Plataforma_Inferior.000
+    3300058: Grades_Inside_Plataforma_Inferior.001
+    3300060: Grades_Inside_Plataforma_Inferior.002
+    3300062: Grades_Inside_Plataforma_Inferior.004
+    3300064: Grades_Inside_Plataforma_Inferior_Entrada
+    3300066: Grades_Inside_Plataforma_Inferior_Entrada.000
+    3300068: Grades_Inside_Plataforma_Inferior_Entrada.001
+    3300070: Grades_Inside_Plataforma_Rampa.001
+    3300072: Grades_Inside_Plataforma_Rampa.002
+    3300074: Grades_Inside_Plataforma_Superior
+    3300076: Grades_Inside_Plataforma_Superior.001
+    3300078: Grades_Inside_Plataforma_Superior.002
+    3300080: Grades_Inside_Plataforma_Superior.003
+    3300082: Grades_Plataforma_Inferior
+    3300084: Grades_Plataforma_Inferior.002
+    3300086: Grades_Plataforma_Inferior.003
+    3300088: Grades_Plataforma_Inferior.004
+    3300090: Grades_Plataforma_Inferior_Entrada.001
+    3300092: Grades_Plataforma_Inferior_Entrada.002
+    3300094: Grades_Plataforma_Inferior_Entrada.003
+    3300096: Grades_Plataforma_Rampa
+    3300098: Grades_Plataforma_Rampa.002
+    3300100: Grades_Plataforma_Superior.000
+    3300102: Grades_Plataforma_Superior.001
+    3300104: Grades_Plataforma_Superior.003
+    3300106: Grades_Plataforma_Superior.004
     4300000: Granito_Superior.001
     4300002: Canteiros.004
     4300004: Canteiros.003
@@ -153,6 +264,33 @@ ModelImporter:
     4300048: Parque
     4300050: Viga.001
     4300052: Pilar
+    4300054: Collider
+    4300056: Grades_Plataforma_Superior.001
+    4300058: Grades_Plataforma_Superior.003
+    4300060: Grades_Plataforma_Superior.000
+    4300062: Grades_Plataforma_Superior.004
+    4300064: Grades_Plataforma_Rampa.002
+    4300066: Grades_Plataforma_Inferior_Entrada.001
+    4300068: Grades_Inside_Plataforma_Inferior_Entrada.001
+    4300070: Grades_Plataforma_Inferior_Entrada.003
+    4300072: Grades_Plataforma_Inferior.004
+    4300074: Grades_Inside_Plataforma_Inferior.004
+    4300076: Grades_Inside_Plataforma_Inferior.002
+    4300078: Grades_Inside_Plataforma_Inferior.000
+    4300080: Grades_Inside_Plataforma_Rampa.002
+    4300082: Grades_Inside_Plataforma_Superior.003
+    4300084: Grades_Inside_Plataforma_Superior.002
+    4300086: Grades_Inside_Plataforma_Superior.001
+    4300088: Grades_Inside_Plataforma_Rampa.001
+    4300090: Grades_Plataforma_Inferior.003
+    4300092: Grades_Plataforma_Inferior.002
+    4300094: Grades_Inside_Plataforma_Inferior.001
+    4300096: Grades_Plataforma_Inferior_Entrada.002
+    4300098: Grades_Inside_Plataforma_Inferior_Entrada.000
+    4300100: Grades_Inside_Plataforma_Inferior_Entrada
+    4300102: Grades_Plataforma_Inferior
+    4300104: Grades_Inside_Plataforma_Superior
+    4300106: Grades_Plataforma_Rampa
   externalObjects:
   - first:
       type: UnityEngine:Material

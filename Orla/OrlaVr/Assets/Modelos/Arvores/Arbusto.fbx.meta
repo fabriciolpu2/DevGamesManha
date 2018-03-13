@@ -11,7 +11,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: new_bushsm
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Arbusto1
+    second: {fileID: 2100000, guid: c485e171c43b54d44b1e6dd33060eac2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
