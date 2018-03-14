@@ -60,6 +60,7 @@ ModelImporter:
     100104: Grades_Plataforma_Superior.001
     100106: Grades_Plataforma_Superior.003
     100108: Grades_Plataforma_Superior.004
+    100110: Canteiros_Inferior.004
     400000: Barras - escada
     400002: Canteiros.001
     400004: Canteiros.002
@@ -115,6 +116,7 @@ ModelImporter:
     400104: Grades_Plataforma_Superior.001
     400106: Grades_Plataforma_Superior.003
     400108: Grades_Plataforma_Superior.004
+    400110: Canteiros_Inferior.004
     2100000: Granito
     2100002: paredeAzul
     2100004: Piso_Vermelho
@@ -129,6 +131,7 @@ ModelImporter:
     2100022: No Name
     2100024: Grade_Orla_Externo
     2100026: Grade_Orla_Externo_Alpha
+    2100028: paredeAzul.001
     2300000: Barras - escada
     2300002: Canteiros.001
     2300004: Canteiros.002
@@ -183,6 +186,7 @@ ModelImporter:
     2300102: Grades_Plataforma_Superior.001
     2300104: Grades_Plataforma_Superior.003
     2300106: Grades_Plataforma_Superior.004
+    2300108: Canteiros_Inferior.004
     3300000: Barras - escada
     3300002: Canteiros.001
     3300004: Canteiros.002
@@ -237,6 +241,7 @@ ModelImporter:
     3300102: Grades_Plataforma_Superior.001
     3300104: Grades_Plataforma_Superior.003
     3300106: Grades_Plataforma_Superior.004
+    3300108: Canteiros_Inferior.004
     4300000: Granito_Superior.001
     4300002: Canteiros.004
     4300004: Canteiros.003
@@ -291,6 +296,7 @@ ModelImporter:
     4300102: Grades_Plataforma_Inferior
     4300104: Grades_Inside_Plataforma_Superior
     4300106: Grades_Plataforma_Rampa
+    4300108: Canteiros_Inferior.004
   externalObjects:
   - first:
       type: UnityEngine:Material
