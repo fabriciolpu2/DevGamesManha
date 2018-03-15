@@ -61,6 +61,10 @@ ModelImporter:
     100106: Grades_Plataforma_Superior.003
     100108: Grades_Plataforma_Superior.004
     100110: Canteiros_Inferior.004
+    100112: Grade.009
+    100114: Barras - escada.002
+    100116: Grade.000
+    100118: Grade.001
     400000: Barras - escada
     400002: Canteiros.001
     400004: Canteiros.002
@@ -117,6 +121,10 @@ ModelImporter:
     400106: Grades_Plataforma_Superior.003
     400108: Grades_Plataforma_Superior.004
     400110: Canteiros_Inferior.004
+    400112: Grade.009
+    400114: Barras - escada.002
+    400116: Grade.000
+    400118: Grade.001
     2100000: Granito
     2100002: paredeAzul
     2100004: Piso_Vermelho
@@ -132,6 +140,8 @@ ModelImporter:
     2100024: Grade_Orla_Externo
     2100026: Grade_Orla_Externo_Alpha
     2100028: paredeAzul.001
+    2100030: Grade
+    2100032: Pilar_Grade
     2300000: Barras - escada
     2300002: Canteiros.001
     2300004: Canteiros.002
@@ -187,6 +197,10 @@ ModelImporter:
     2300104: Grades_Plataforma_Superior.003
     2300106: Grades_Plataforma_Superior.004
     2300108: Canteiros_Inferior.004
+    2300110: Grade.009
+    2300112: Barras - escada.002
+    2300114: Grade.000
+    2300116: Grade.001
     3300000: Barras - escada
     3300002: Canteiros.001
     3300004: Canteiros.002
@@ -242,6 +256,10 @@ ModelImporter:
     3300104: Grades_Plataforma_Superior.003
     3300106: Grades_Plataforma_Superior.004
     3300108: Canteiros_Inferior.004
+    3300110: Grade.009
+    3300112: Barras - escada.002
+    3300114: Grade.000
+    3300116: Grade.001
     4300000: Granito_Superior.001
     4300002: Canteiros.004
     4300004: Canteiros.003
@@ -297,12 +315,21 @@ ModelImporter:
     4300104: Grades_Inside_Plataforma_Superior
     4300106: Grades_Plataforma_Rampa
     4300108: Canteiros_Inferior.004
+    4300110: Grade.009
+    4300112: Barras - escada.002
+    4300114: Grade.000
+    4300116: Grade.001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Concreto
     second: {fileID: 2100000, guid: 8fb1da9e7b3156c4b8259fe4212423f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grade
+    second: {fileID: 2100000, guid: 1b00584d44dcaf24599102396aef5de5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -333,6 +360,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Metal
     second: {fileID: 2100000, guid: 5b33b21a2d43f4b4eb81a2f70a5c5d34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 980923754f93f2a4baddbea4b9a1fd9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar_Grade
+    second: {fileID: 2100000, guid: d2e87f148933a6e49a36f3d7a8e4fb94, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
