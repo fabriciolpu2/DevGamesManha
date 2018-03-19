@@ -88,7 +88,37 @@ ModelImporter:
     4300024: OK - Asfalto
     4300026: OK - Muro Orla
     4300028: OK - TerraOrla
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asfalto.001
+    second: {fileID: 2100000, guid: 47cbfb9a2fb4a31418f737332bfaddf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama
+    second: {fileID: 2100000, guid: 78627e079d754454d996c873d6e072fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MEIO FIO.001
+    second: {fileID: 2100000, guid: c362935e3d905854d9366229b0211b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 520f556f001f0d440a9fed4f846afaee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso
+    second: {fileID: 2100000, guid: f18ffb6cac4fb294e852822d2f195480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoPARALELEPIPEDO
+    second: {fileID: 2100000, guid: 98fe2851c2a950d49b1dad9f8040a127, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

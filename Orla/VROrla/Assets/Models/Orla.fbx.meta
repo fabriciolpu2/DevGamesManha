@@ -333,7 +333,77 @@ ModelImporter:
     4300118: Plataforma-Piso_vermelho.003
     4300120: Plataforma-Rampa
     10800000: Lamp
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 07e1b81829a15eb4985b0408ec8e90b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grade
+    second: {fileID: 2100000, guid: 4d7b294601371de4183da106ebcba0b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granito
+    second: {fileID: 2100000, guid: 900a61de54bd6a94c8fb27e1093c5c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jardim
+    second: {fileID: 2100000, guid: b8323e2e72006a948902436ec5fdaf55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_com_spot
+    second: {fileID: 2100000, guid: 572fad223fa0cf74383e505f565526c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_espelho
+    second: {fileID: 2100000, guid: 69fd7e9c2c02d234fb7ddea06b2adcb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_vertical
+    second: {fileID: 2100000, guid: 8f5632958b9833346b4402e547186f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: ba00e52a5a5d415419f7d5fa9b92c828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 12fa14433e396444e81f862935ebed4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar_Grade
+    second: {fileID: 2100000, guid: b7d5a3a86e3187f49ae2fdf125f6574e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Cinza
+    second: {fileID: 2100000, guid: 63b20aee6a2cbd0439f45d832cddb856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Vermelho
+    second: {fileID: 2100000, guid: e12fce25e58c36b4f8246ae5d1676a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rampa_piso_diferente
+    second: {fileID: 2100000, guid: 4e70e7f5d7030244f8733d85064845aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredeAzul
+    second: {fileID: 2100000, guid: 591e1681eb96a974d8adb09e60ffdde8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
