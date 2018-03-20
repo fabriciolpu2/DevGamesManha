@@ -21,6 +21,43 @@ ModelImporter:
     100026: Ok - PisoVERMELHO
     100028: OK - TerraOrla
     100030: //RootNode
+    100032: Calcada_ceramica
+    100034: Calcada_concreto
+    100036: Calcada_grama
+    100038: Entrada_orla
+    100040: Grama
+    100042: Ok - PisoVERMELHO.001
+    100044: Paralelepipedo
+    100046: Plataforma-Barras - escada.002
+    100048: Plataforma-Canteiros.001
+    100050: Plataforma-Canteiros.002
+    100052: Plataforma-Canteiros.003
+    100054: Plataforma-Canteiros.004
+    100056: Plataforma-Canteiros_Inferior
+    100058: Plataforma-Canteiros_Inferior.001
+    100060: Plataforma-Canteiros_Inferior.002
+    100062: Plataforma-Canteiros_Inferior.003
+    100064: Plataforma-Canteiros_Rampa
+    100066: Plataforma-Canteiros_Rampa.001
+    100068: Plataforma-Collider
+    100070: Plataforma-Concreto
+    100072: Plataforma-Concreto.001
+    100074: Plataforma-Concreto.003
+    100076: Plataforma-Escada_rampa
+    100078: Plataforma-Grade
+    100080: Plataforma-Grade.001
+    100082: Plataforma-Grade.002
+    100084: Plataforma-Granito_Superior
+    100086: Plataforma-Granito_Superior.001
+    100088: Plataforma-Jardim
+    100090: Plataforma-Parque
+    100092: Plataforma-Piso_cinza
+    100094: Plataforma-Piso_vermelho
+    100096: Plataforma-Piso_vermelho.001
+    100098: Plataforma-Piso_vermelho.002
+    100100: Plataforma-Piso_vermelho.003
+    100102: Plataforma-Rampa
+    100104: Terra
     400000: OK - Asfalto
     400002: Ok - CalcadaOrla
     400004: Ok - Casas Meio Fio
@@ -37,12 +74,73 @@ ModelImporter:
     400026: Ok - PisoVERMELHO
     400028: OK - TerraOrla
     400030: //RootNode
+    400032: Calcada_ceramica
+    400034: Calcada_concreto
+    400036: Calcada_grama
+    400038: Entrada_orla
+    400040: Grama
+    400042: Ok - PisoVERMELHO.001
+    400044: Paralelepipedo
+    400046: Plataforma-Barras - escada.002
+    400048: Plataforma-Canteiros.001
+    400050: Plataforma-Canteiros.002
+    400052: Plataforma-Canteiros.003
+    400054: Plataforma-Canteiros.004
+    400056: Plataforma-Canteiros_Inferior
+    400058: Plataforma-Canteiros_Inferior.001
+    400060: Plataforma-Canteiros_Inferior.002
+    400062: Plataforma-Canteiros_Inferior.003
+    400064: Plataforma-Canteiros_Rampa
+    400066: Plataforma-Canteiros_Rampa.001
+    400068: Plataforma-Collider
+    400070: Plataforma-Concreto
+    400072: Plataforma-Concreto.001
+    400074: Plataforma-Concreto.003
+    400076: Plataforma-Escada_rampa
+    400078: Plataforma-Grade
+    400080: Plataforma-Grade.001
+    400082: Plataforma-Grade.002
+    400084: Plataforma-Granito_Superior
+    400086: Plataforma-Granito_Superior.001
+    400088: Plataforma-Jardim
+    400090: Plataforma-Parque
+    400092: Plataforma-Piso_cinza
+    400094: Plataforma-Piso_vermelho
+    400096: Plataforma-Piso_vermelho.001
+    400098: Plataforma-Piso_vermelho.002
+    400100: Plataforma-Piso_vermelho.003
+    400102: Plataforma-Rampa
+    400104: Terra
     2100000: PisoPARALELEPIPEDO
     2100002: MEIO FIO.001
     2100004: Grama
     2100006: Piso
     2100008: No Name
     2100010: Asfalto.001
+    2100012: PisoConcreto
+    2100014: Concreto
+    2100016: Terra
+    2100018: CeramicaVERMELHA
+    2100020: Azul
+    2100022: Verde
+    2100024: Amarelo
+    2100026: Rosa
+    2100028: PisoRIO
+    2100030: Pedras
+    2100032: MuroTIJOLOS
+    2100034: MuroPEDRA
+    2100036: Metal
+    2100038: paredeAzul
+    2100040: Madeira_espelho
+    2100042: Madeira_vertical
+    2100044: Madeira_com_spot
+    2100046: Pilar_Grade
+    2100048: Grade
+    2100050: Granito
+    2100052: Jardim
+    2100054: Piso_Cinza
+    2100056: Piso_Vermelho
+    2100058: Rampa_piso_diferente
     2300000: OK - Asfalto
     2300002: Ok - CalcadaOrla
     2300004: Ok - Casas Meio Fio
@@ -58,6 +156,43 @@ ModelImporter:
     2300024: Ok - PisoCINZA
     2300026: Ok - PisoVERMELHO
     2300028: OK - TerraOrla
+    2300030: Calcada_ceramica
+    2300032: Calcada_concreto
+    2300034: Calcada_grama
+    2300036: Entrada_orla
+    2300038: Grama
+    2300040: Ok - PisoVERMELHO.001
+    2300042: Paralelepipedo
+    2300044: Plataforma-Barras - escada.002
+    2300046: Plataforma-Canteiros.001
+    2300048: Plataforma-Canteiros.002
+    2300050: Plataforma-Canteiros.003
+    2300052: Plataforma-Canteiros.004
+    2300054: Plataforma-Canteiros_Inferior
+    2300056: Plataforma-Canteiros_Inferior.001
+    2300058: Plataforma-Canteiros_Inferior.002
+    2300060: Plataforma-Canteiros_Inferior.003
+    2300062: Plataforma-Canteiros_Rampa
+    2300064: Plataforma-Canteiros_Rampa.001
+    2300066: Plataforma-Collider
+    2300068: Plataforma-Concreto
+    2300070: Plataforma-Concreto.001
+    2300072: Plataforma-Concreto.003
+    2300074: Plataforma-Escada_rampa
+    2300076: Plataforma-Grade
+    2300078: Plataforma-Grade.001
+    2300080: Plataforma-Grade.002
+    2300082: Plataforma-Granito_Superior
+    2300084: Plataforma-Granito_Superior.001
+    2300086: Plataforma-Jardim
+    2300088: Plataforma-Parque
+    2300090: Plataforma-Piso_cinza
+    2300092: Plataforma-Piso_vermelho
+    2300094: Plataforma-Piso_vermelho.001
+    2300096: Plataforma-Piso_vermelho.002
+    2300098: Plataforma-Piso_vermelho.003
+    2300100: Plataforma-Rampa
+    2300102: Terra
     3300000: OK - Asfalto
     3300002: Ok - CalcadaOrla
     3300004: Ok - Casas Meio Fio
@@ -73,6 +208,43 @@ ModelImporter:
     3300024: Ok - PisoCINZA
     3300026: Ok - PisoVERMELHO
     3300028: OK - TerraOrla
+    3300030: Calcada_ceramica
+    3300032: Calcada_concreto
+    3300034: Calcada_grama
+    3300036: Entrada_orla
+    3300038: Grama
+    3300040: Ok - PisoVERMELHO.001
+    3300042: Paralelepipedo
+    3300044: Plataforma-Barras - escada.002
+    3300046: Plataforma-Canteiros.001
+    3300048: Plataforma-Canteiros.002
+    3300050: Plataforma-Canteiros.003
+    3300052: Plataforma-Canteiros.004
+    3300054: Plataforma-Canteiros_Inferior
+    3300056: Plataforma-Canteiros_Inferior.001
+    3300058: Plataforma-Canteiros_Inferior.002
+    3300060: Plataforma-Canteiros_Inferior.003
+    3300062: Plataforma-Canteiros_Rampa
+    3300064: Plataforma-Canteiros_Rampa.001
+    3300066: Plataforma-Collider
+    3300068: Plataforma-Concreto
+    3300070: Plataforma-Concreto.001
+    3300072: Plataforma-Concreto.003
+    3300074: Plataforma-Escada_rampa
+    3300076: Plataforma-Grade
+    3300078: Plataforma-Grade.001
+    3300080: Plataforma-Grade.002
+    3300082: Plataforma-Granito_Superior
+    3300084: Plataforma-Granito_Superior.001
+    3300086: Plataforma-Jardim
+    3300088: Plataforma-Parque
+    3300090: Plataforma-Piso_cinza
+    3300092: Plataforma-Piso_vermelho
+    3300094: Plataforma-Piso_vermelho.001
+    3300096: Plataforma-Piso_vermelho.002
+    3300098: Plataforma-Piso_vermelho.003
+    3300100: Plataforma-Rampa
+    3300102: Terra
     4300000: Ok - CalcadaOrla
     4300002: Ok - Escadaria
     4300004: OK - MeioFio
@@ -88,12 +260,69 @@ ModelImporter:
     4300024: OK - Asfalto
     4300026: OK - Muro Orla
     4300028: OK - TerraOrla
+    4300030: Entrada_orla
+    4300032: Calcada_concreto
+    4300034: Calcada_grama
+    4300036: Ok - PisoVERMELHO.001
+    4300038: Terra
+    4300040: Calcada_ceramica
+    4300042: Paralelepipedo
+    4300044: Grama
+    4300046: Plataforma-Barras - escada.002
+    4300048: Plataforma-Canteiros.001
+    4300050: Plataforma-Canteiros.002
+    4300052: Plataforma-Canteiros.003
+    4300054: Plataforma-Canteiros.004
+    4300056: Plataforma-Canteiros_Inferior
+    4300058: Plataforma-Canteiros_Inferior.001
+    4300060: Plataforma-Canteiros_Inferior.002
+    4300062: Plataforma-Canteiros_Inferior.003
+    4300064: Plataforma-Canteiros_Rampa
+    4300066: Plataforma-Canteiros_Rampa.001
+    4300068: Plataforma-Collider
+    4300070: Plataforma-Concreto
+    4300072: Plataforma-Concreto.001
+    4300074: Plataforma-Concreto.003
+    4300076: Plataforma-Escada_rampa
+    4300078: Plataforma-Grade.001
+    4300080: Plataforma-Grade.002
+    4300082: Plataforma-Grade
+    4300084: Plataforma-Granito_Superior
+    4300086: Plataforma-Granito_Superior.001
+    4300088: Plataforma-Jardim
+    4300090: Plataforma-Parque
+    4300092: Plataforma-Piso_cinza
+    4300094: Plataforma-Piso_vermelho
+    4300096: Plataforma-Piso_vermelho.001
+    4300098: Plataforma-Piso_vermelho.002
+    4300100: Plataforma-Piso_vermelho.003
+    4300102: Plataforma-Rampa
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarelo
+    second: {fileID: 2100000, guid: c207e916f1740c34791b3c9c33875830, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Asfalto.001
     second: {fileID: 2100000, guid: 47cbfb9a2fb4a31418f737332bfaddf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul
+    second: {fileID: 2100000, guid: 15629fe058e7d65488fedbd27099bd69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicaVERMELHA
+    second: {fileID: 2100000, guid: 61dbc7b6f5255d94b954ca7400fb8996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 62a11b175e75a6446943ac9a643f8c7c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -107,8 +336,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: MuroPEDRA
+    second: {fileID: 2100000, guid: b7b2518e0849c974d8eebb80c9e6e39e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MuroTIJOLOS
+    second: {fileID: 2100000, guid: 1f9c39972e179bb499ca66c4430d0fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: No Name
     second: {fileID: 2100000, guid: 520f556f001f0d440a9fed4f846afaee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedras
+    second: {fileID: 2100000, guid: 5710f408b0b9e6e42b55636887b66543, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -117,8 +361,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: PisoConcreto
+    second: {fileID: 2100000, guid: ce3d43f82f18b92448701d8d5ebbde4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: PisoPARALELEPIPEDO
     second: {fileID: 2100000, guid: 98fe2851c2a950d49b1dad9f8040a127, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoRIO
+    second: {fileID: 2100000, guid: d98e6f19cbb4f504bb79b0d5bab7e524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rosa
+    second: {fileID: 2100000, guid: 9e04bf53a94b1d54a946dc6c88c63406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra
+    second: {fileID: 2100000, guid: 36db8ecef330d204eace9a4c1296b20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde
+    second: {fileID: 2100000, guid: ffe802d7c73526043b544441d3f65113, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -156,7 +425,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
