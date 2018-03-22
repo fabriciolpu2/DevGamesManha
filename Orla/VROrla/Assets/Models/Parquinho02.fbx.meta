@@ -19,7 +19,17 @@ ModelImporter:
     3300002: Cube.001
     4300000: Cube.001
     4300002: Cube.000
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parque.001
+    second: {fileID: 2100000, guid: 9e438bb6ff59cc4498595be052c41824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rede
+    second: {fileID: 2100000, guid: b89d97e6bf4860848a4f6922cb143151, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -57,7 +67,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
