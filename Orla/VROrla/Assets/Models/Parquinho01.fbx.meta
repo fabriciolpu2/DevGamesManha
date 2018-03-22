@@ -23,6 +23,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cordas
+    second: {fileID: 2100000, guid: 095ab780db703994387b838a81b6e799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Parque
     second: {fileID: 2100002, guid: 16e37ea382247fe48aa5afabc19e3682, type: 3}
   materials:
@@ -62,7 +67,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
