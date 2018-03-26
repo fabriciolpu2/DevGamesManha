@@ -37,6 +37,7 @@ GameObject:
   - component: {fileID: 4355684423301938}
   - component: {fileID: 33486457775324484}
   - component: {fileID: 23919593739753732}
+  - component: {fileID: 65009097983874892}
   m_Layer: 0
   m_Name: Quisque-Tenda
   m_TagString: Untagged
@@ -50,9 +51,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1816606774583826}
-  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 23.230001, y: -0.045469, z: 8.44}
-  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: 163.1, y: -10.56036, z: -3.95}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4666367595652858}
   m_Father: {fileID: 0}
@@ -92,7 +93,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 0.19
+  m_ScaleInLightmap: 0.1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -112,6 +113,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1816606774583826}
   m_Mesh: {fileID: 4300000, guid: fa1e0cc45205e234da152e2f8b4d656d, type: 3}
+--- !u!65 &65009097983874892
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1816606774583826}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.3756256, y: 0.289373, z: 4.139775}
+  m_Center: {x: -0.03580475, y: -0.057171088, z: 2.0681283}
 --- !u!108 &108246849253256082
 Light:
   m_ObjectHideFlags: 1
