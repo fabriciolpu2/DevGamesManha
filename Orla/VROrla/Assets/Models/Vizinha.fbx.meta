@@ -19,7 +19,17 @@ ModelImporter:
     3300002: Low.001
     4300000: CalcadaVizinha
     4300002: Low.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casas.001
+    second: {fileID: 2100000, guid: dce40ca1ab2812044b9a3ec099c10c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoConcreto
+    second: {fileID: 2100000, guid: 1e01e0be4e48eca479e7701204be9cb1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -57,7 +67,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

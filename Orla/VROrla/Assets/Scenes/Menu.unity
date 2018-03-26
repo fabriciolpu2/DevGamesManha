@@ -130,7 +130,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &173300218
 AudioListener:
   m_ObjectHideFlags: 0
@@ -238,6 +238,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114692201359002668, guid: 8d8ee01f237fcc14cbd51e025bb16050,
+        type: 2}
+      propertyPath: emulatorConnectionMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114873458435422240, guid: 8d8ee01f237fcc14cbd51e025bb16050,
+        type: 2}
+      propertyPath: vrModeOnly
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8d8ee01f237fcc14cbd51e025bb16050, type: 2}
   m_IsPrefabParent: 0
@@ -256,7 +266,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &870573296
 Light:
   m_ObjectHideFlags: 0

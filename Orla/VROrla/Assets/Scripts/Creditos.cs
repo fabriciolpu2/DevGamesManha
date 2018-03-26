@@ -27,6 +27,7 @@ public class Creditos : MonoBehaviour {
 	}
 
 	public void creditos () {
+		print("Creditos");
 		uiObject.SetActive(false);	
 		credito.SetActive (true);
 		RenderSettings.skybox = SkyCreditos;
