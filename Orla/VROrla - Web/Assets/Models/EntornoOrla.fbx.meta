@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 9400b4927a66adf45b525b548b9155e1
+timeCreated: 1521401880
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: OK - Asfalto
+    100004: Ok - CalcadaOrla
+    100006: Ok - Casas Meio Fio
+    100008: Ok - Escadaria
+    100010: OK - Grama
+    100012: Ok - Grama Parte Superior
+    100014: OK - MeioFio
+    100016: Ok - Muro Bloqueio
+    100018: OK - Muro Orla
+    100020: ok - Piso Artesanato
+    100022: Ok - Piso Entrada Subida
+    100024: Ok - Piso Parte Superior
+    100026: ok - PisoCINZA
+    100028: Ok - PisoVERMELHO
+    100030: Ok - Seguranca
+    100032: OK - TerraOrla
+    400000: //RootNode
+    400002: OK - Asfalto
+    400004: Ok - CalcadaOrla
+    400006: Ok - Casas Meio Fio
+    400008: Ok - Escadaria
+    400010: OK - Grama
+    400012: Ok - Grama Parte Superior
+    400014: OK - MeioFio
+    400016: Ok - Muro Bloqueio
+    400018: OK - Muro Orla
+    400020: ok - Piso Artesanato
+    400022: Ok - Piso Entrada Subida
+    400024: Ok - Piso Parte Superior
+    400026: ok - PisoCINZA
+    400028: Ok - PisoVERMELHO
+    400030: Ok - Seguranca
+    400032: OK - TerraOrla
+    2100000: PisoPARALELEPIPEDO
+    2100002: MEIO FIO.001
+    2100004: Grama
+    2100006: Piso
+    2100008: No Name
+    2100010: Asfalto.001
+    2100012: Seguranca
+    2300000: OK - Asfalto
+    2300002: Ok - CalcadaOrla
+    2300004: Ok - Casas Meio Fio
+    2300006: Ok - Escadaria
+    2300008: OK - Grama
+    2300010: Ok - Grama Parte Superior
+    2300012: OK - MeioFio
+    2300014: Ok - Muro Bloqueio
+    2300016: OK - Muro Orla
+    2300018: ok - Piso Artesanato
+    2300020: Ok - Piso Entrada Subida
+    2300022: Ok - Piso Parte Superior
+    2300024: ok - PisoCINZA
+    2300026: Ok - PisoVERMELHO
+    2300028: Ok - Seguranca
+    2300030: OK - TerraOrla
+    3300000: OK - Asfalto
+    3300002: Ok - CalcadaOrla
+    3300004: Ok - Casas Meio Fio
+    3300006: Ok - Escadaria
+    3300008: OK - Grama
+    3300010: Ok - Grama Parte Superior
+    3300012: OK - MeioFio
+    3300014: Ok - Muro Bloqueio
+    3300016: OK - Muro Orla
+    3300018: ok - Piso Artesanato
+    3300020: Ok - Piso Entrada Subida
+    3300022: Ok - Piso Parte Superior
+    3300024: ok - PisoCINZA
+    3300026: Ok - PisoVERMELHO
+    3300028: Ok - Seguranca
+    3300030: OK - TerraOrla
+    4300000: Ok - CalcadaOrla
+    4300002: Ok - Escadaria
+    4300004: OK - MeioFio
+    4300006: OK - Grama
+    4300008: Ok - Piso Entrada Subida
+    4300010: ok - Piso Artesanato
+    4300012: Ok - Grama Parte Superior
+    4300014: Ok - Casas Meio Fio
+    4300016: Ok - Piso Parte Superior
+    4300018: Ok - Muro Bloqueio
+    4300020: ok - PisoCINZA
+    4300022: Ok - PisoVERMELHO
+    4300024: OK - Asfalto
+    4300026: OK - Muro Orla
+    4300028: Ok - Seguranca
+    4300030: OK - TerraOrla
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

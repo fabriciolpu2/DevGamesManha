@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d80b6f26c7beb91469483f0fa34d8715
+timeCreated: 1521428198
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Praca-BancoConcreto
+    100002: Praca-Cimento
+    100004: Praca-CimentoVerde
+    100006: Praca-Grama
+    100008: Praca-Monumento
+    100010: Praca-MuroPedra
+    100012: Praca-PisoConcreto
+    100014: Praca-PlacaMonumento
+    100016: Praca-RodaPedra
+    100018: //RootNode
+    400000: Praca-BancoConcreto
+    400002: Praca-Cimento
+    400004: Praca-CimentoVerde
+    400006: Praca-Grama
+    400008: Praca-Monumento
+    400010: Praca-MuroPedra
+    400012: Praca-PisoConcreto
+    400014: Praca-PlacaMonumento
+    400016: Praca-RodaPedra
+    400018: //RootNode
+    2100000: placamonumento
+    2100002: bancoconvreto
+    2100004: Grama
+    2100006: Monumento
+    2100008: cimento
+    2100010: cimentoverde
+    2100012: pisoconcreto
+    2100014: muropedra
+    2100016: rodapedra
+    2300000: Praca-BancoConcreto
+    2300002: Praca-Cimento
+    2300004: Praca-CimentoVerde
+    2300006: Praca-Grama
+    2300008: Praca-Monumento
+    2300010: Praca-MuroPedra
+    2300012: Praca-PisoConcreto
+    2300014: Praca-PlacaMonumento
+    2300016: Praca-RodaPedra
+    3300000: Praca-BancoConcreto
+    3300002: Praca-Cimento
+    3300004: Praca-CimentoVerde
+    3300006: Praca-Grama
+    3300008: Praca-Monumento
+    3300010: Praca-MuroPedra
+    3300012: Praca-PisoConcreto
+    3300014: Praca-PlacaMonumento
+    3300016: Praca-RodaPedra
+    4300000: Praca-PlacaMonumento
+    4300002: Praca-BancoConcreto
+    4300004: Praca-Grama
+    4300006: Praca-Monumento
+    4300008: Praca-Cimento
+    4300010: Praca-CimentoVerde
+    4300012: Praca-PisoConcreto
+    4300014: Praca-MuroPedra
+    4300016: Praca-RodaPedra
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama
+    second: {fileID: 2100000, guid: ec50ba6baaabb884fb111c45efab5957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monumento
+    second: {fileID: 2100000, guid: a2f2b495d906066409657382bdacdc4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bancoconvreto
+    second: {fileID: 2100000, guid: 4f6f2c336c081174ab4fe276b9090cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cimento
+    second: {fileID: 2100000, guid: 87c1e4210a350fa40870834b27c0885e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cimentoverde
+    second: {fileID: 2100000, guid: f716c02c22996664794c001bc6b9d44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muropedra
+    second: {fileID: 2100000, guid: a6edf84c83d17b84598a958810e9c34d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pisoconcreto
+    second: {fileID: 2100000, guid: ade9e262c175d5c4dbe76a52becdc6cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: placamonumento
+    second: {fileID: 2100000, guid: b7ebfdad9c564b44e8623f4be92af30e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rodapedra
+    second: {fileID: 2100000, guid: 5d2f2ebea5e15754e8a99fd84da2f3ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

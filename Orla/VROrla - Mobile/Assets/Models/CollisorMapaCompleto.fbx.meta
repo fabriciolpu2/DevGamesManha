@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: dc52b4e053164564dabe5909c5fe2272
+labels:
+- Architecture
+timeCreated: 1523049951
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Collider_Escadaria
+    100002: Collider_Historico
+    100004: Collider_Igreja
+    100006: Collider_Plataforma-Escada
+    100008: Collider_PlataformaInferior
+    100010: Collider_PlataformaSuperopr
+    100012: Collider_Praca
+    100014: Collider_praca
+    100016: Collider_Rua_Petita
+    100018: //RootNode
+    400000: Collider_Escadaria
+    400002: Collider_Historico
+    400004: Collider_Igreja
+    400006: Collider_Plataforma-Escada
+    400008: Collider_PlataformaInferior
+    400010: Collider_PlataformaSuperopr
+    400012: Collider_Praca
+    400014: Collider_praca
+    400016: Collider_Rua_Petita
+    400018: //RootNode
+    2100000: No Name
+    2300000: Collider_Escadaria
+    2300002: Collider_Historico
+    2300004: Collider_Igreja
+    2300006: Collider_Plataforma-Escada
+    2300008: Collider_PlataformaInferior
+    2300010: Collider_PlataformaSuperopr
+    2300012: Collider_Praca
+    2300014: Collider_praca
+    2300016: Collider_Rua_Petita
+    3300000: Collider_Escadaria
+    3300002: Collider_Historico
+    3300004: Collider_Igreja
+    3300006: Collider_Plataforma-Escada
+    3300008: Collider_PlataformaInferior
+    3300010: Collider_PlataformaSuperopr
+    3300012: Collider_Praca
+    3300014: Collider_praca
+    3300016: Collider_Rua_Petita
+    4300000: Collider_Escadaria
+    4300002: Collider_Praca
+    4300004: Collider_Rua_Petita
+    4300006: Collider_praca
+    4300008: Collider_Historico
+    4300010: Collider_PlataformaSuperopr
+    4300012: Collider_PlataformaInferior
+    4300014: Collider_Igreja
+    4300016: Collider_Plataforma-Escada
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
